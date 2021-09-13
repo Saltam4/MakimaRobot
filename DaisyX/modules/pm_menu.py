@@ -70,13 +70,13 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
-            strings["btn_source"], url="https://github.com/TeamDaisyX/"
+            strings["btn_source"], url="https://github.com/MakimaNayutaRobot/"
         ),
     )
     buttons.add(
-        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/DaisyXUpdates"),
+        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/MakimaUpdate"),
         InlineKeyboardButton(
-            strings["btn_group"], url="https://t.me/DaisySupport_Official"
+            strings["btn_group"], url="https://t.me/MakimaChat"
         ),
     )
     buttons.add(
