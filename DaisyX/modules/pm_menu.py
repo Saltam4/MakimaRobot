@@ -44,7 +44,7 @@ def help_markup(modules):
     return markup
 
 
-STICKERS = ("https://telegra.ph/file/fe58d46e20c9056a51d43.jpg",)
+STICKERS = ("https://telegra.ph/file/d5d860fdb25369ef69fc3.mp4",)
 
 
 @register(cmds="start", no_args=True, only_groups=True)
