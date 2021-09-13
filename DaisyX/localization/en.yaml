@@ -190,6 +190,7 @@ STRINGS:
     start_hi: "Hey there! My name is <b>Makima.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
     btn_help: "ℹ️ Help"
     btn_lang: "🇺🇸 Language"
+    btn_source: "💾 Repository"
     btn_channel: "🔔 Makima Update"
     btn_group: "📚 Makima Logs"
     btn_group_help: "Click me for help!"
