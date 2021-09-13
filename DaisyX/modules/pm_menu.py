@@ -75,9 +75,7 @@ async def get_start_func(message, strings, edit=False):
     )
     buttons.add(
         InlineKeyboardButton(strings["btn_channel"], url="https://t.me/MakimaUpdate"),
-        InlineKeyboardButton(
-            strings["btn_group"], url="https://t.me/MakimaChat"
-        ),
+        InlineKeyboardButton(strings["btn_group"], url="https://t.me/MakimaChat"),
     )
     buttons.add(
         InlineKeyboardButton(
