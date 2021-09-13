@@ -134,7 +134,7 @@ STRINGS:
     # /delwarns
     purged_warns: "{admin} reset <code>{num}</code> warns of {user} in <b>{chat_title}</b>!"
     usr_no_wrn: "{user} doesn't have any warns to reset."
-    rst_wrn_sofi: 'Daisy never had warns to reset.'
+    rst_wrn_sofi: 'Makima never had warns to reset.'
     not_digit: Warnlimits should be digits!
 
     # /warnmode
@@ -186,18 +186,17 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Daisy'
-    start_hi: "Hey there! My name is <b>Daisy.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
-    btn_source: "📜 Source code"
-    btn_help: "❔ Help"
+    start_hi_group: 'Hey there! My name is Makima'
+    start_hi: "Hey there! My name is <b>Makima.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    btn_help: "ℹ️ Help"
     btn_lang: "🇺🇸 Language"
-    btn_channel: "🙋‍♀️ Daisy News"
-    btn_group: "👥 Daisy Support"
+    btn_channel: "🔔 Makima Update"
+    btn_group: "📚 Makima Logs"
     btn_group_help: "Click me for help!"
-    back: "🏃‍♂️ Back"
+    back: "↪️ Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b>Daisy</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "Hi Boss! I'm <b>Makima</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
     click_btn: Click here
 
   disable:
@@ -616,7 +615,7 @@ STRINGS:
     # success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "Welcome {mention}! How are you?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @DaisyXUpdates."
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @MakimaUpdate."
     default_security_note: "Welcome {mention}! Please press button below to verify yourself as human!"
 
     bool_invalid_arg: Invalid argument, expected <code>on</code>/<code>off</code>.
