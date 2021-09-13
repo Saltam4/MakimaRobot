@@ -45,8 +45,7 @@ def help_markup(modules):
 
 
 STICKERS = (
-    "https://telegra.ph/file/f7833257c6a29238cacd6.png",
-    "https://telegra.ph/file/a22c045fa8fa4fffa51dd.jpg",
+    "https://telegra.ph/file/fe58d46e20c9056a51d43.jpg",
 )
 
 
